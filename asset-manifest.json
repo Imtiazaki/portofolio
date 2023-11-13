@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f52636e.css",
+    "main.js": "/static/js/main.5bcf626f.js",
+    "static/media/sitama.jpg": "/static/media/sitama.a558371eed34d64c1e57.jpg",
+    "static/media/about.png": "/static/media/about.19c31447f2e14263ea69.png",
+    "static/media/diskominfo.jpg": "/static/media/diskominfo.45dd7821c5cf21c69213.jpg",
+    "static/media/budiluhur.jpg": "/static/media/budiluhur.0de3d1ce94adeeac69c4.jpg",
+    "static/media/course.jpg": "/static/media/course.55570a951c2e3eb40bde.jpg",
+    "static/media/exp.jpg": "/static/media/exp.1d01c3ff9ee9e57d5be3.jpg",
+    "static/media/other.jpg": "/static/media/other.08cb193bfb954bdcc9b5.jpg",
+    "static/media/edu.png": "/static/media/edu.ec55fd35a33a42baec96.png",
+    "static/media/background.jpg": "/static/media/background.637390509cdc2ea48bc7.jpg",
+    "static/media/logo.png": "/static/media/logo.3cdc12f09193f664f712.png",
+    "static/media/astro.png": "/static/media/astro.b55e74257cbcd0f56891.png",
+    "static/media/udemy.jpg": "/static/media/udemy.75c4077c9e047b4cdf22.jpg",
+    "index.html": "/index.html",
+    "main.8f52636e.css.map": "/static/css/main.8f52636e.css.map",
+    "main.5bcf626f.js.map": "/static/js/main.5bcf626f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f52636e.css",
+    "static/js/main.5bcf626f.js"
+  ]
+}
