@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap');
+
+/* .about-me {
+  background-image: url("../assets/background.jpg");
+  background-size: "cover";
+  height: 100vh;
+  margin-top: -70px;
+  font-size:50px;
+  background-repeat:no-repeat; 
+} */
+
+
+.about {
+    border-radius: 25px;
+    border: 2px solid #F8F8FF;
+    margin-left: 15%;
+    padding: 10px;
+    height: auto;
+  }
+
+.about-content {
+    font-size: 19px;
+    color: #F8F8FF;
+    text-align: justify;
+}
+
+.about-header {
+    font-size: 30px;
+    margin-left: 20%;
+    margin-top: 20%;
+    color: #F8F8FF;
+    font-family: 'Playpen Sans', cursive;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+.about-image {
+  display: block;
+    height: 500px;
+    width: auto;
+    margin-top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .exp-astro {
+    animation: App-logo-spin infinite 120s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.about-skill {
+    margin-left: 15%;
+    margin-right: 20%;
+}
+
+.about-contact {
+    margin-left: 15%;
+}
+ 
+@keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+  }
+
+.exp-absolute {
+    position: fixed;
+    top: 80%;
+    bottom: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 20%;
+  } 
+
+.exp-astro {
+  display: block;
+  width: 10%;
+  height: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  pointer-events: none;
+}
+
+.edu-astro {
+  position: absolute;
+  bottom: 1px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.edu-budi {
+  display: flex;
+  background-color: #191763;
+  opacity: 0.7;
+  margin-right: 10%;
+  margin-top: 1%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #ffffff;
+}
+
+.edu-budi-text {
+  color: #ffffff;
+  font-size: 25px;
+  text-align: justify;
+  padding: 10px;
+}
+
+.edu-budi-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.edu-course {
+  background-color: #f2db0a;
+  opacity: 0.7;
+  margin-right: 10%;
+  margin-top: 1%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: red;
+}
+
+.edu-course-text {
+  color: black;
+  padding: 10px;
+  font-size: 25px;
+  text-align: justify;
+}
+
+.edu-course-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.edu-udemy {
+  background-color: #ffffff;
+  opacity: 0.7;
+  margin-right: 10%;
+  margin-top: 1%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #e75eff;
+}
+
+.edu-udemy-text {
+  color: black;
+  padding: 10px;
+  font-size: 25px;
+  text-align: justify;
+}
+.edu-udemy-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.high-light {
+  color: black;
+  background-color: #ffffff;
+}
+
+.high-light-black {
+  color: #f2db0a;
+  background-color: black;
+}
+
+.cert-button {
+  bottom: 1px;
+}
+
+.skill-list {
+  margin-left: 30%;
+  margin-top: 20%;
+}
